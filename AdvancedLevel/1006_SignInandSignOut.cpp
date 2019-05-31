@@ -1,6 +1,6 @@
 // 1006 Sign in and Sign out.
 // By Milkyway, 2019/5/31.
-// It runs in O(n) in time and O(n) in space, which n is M.
+// It runs in O(n) in time and O(1) in space, which n is M.
 #include<iostream>
 
 using namespace std;
