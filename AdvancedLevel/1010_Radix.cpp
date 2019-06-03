@@ -1,6 +1,6 @@
 // 1010 Radix
 // By Milkyway, 2019/6/2.
-// It runs in O(1) in time and O(1) in space.
+// It runs in O() in time and O(1) in space.
 #include<iostream>
 typedef long long LL;
 using namespace std;
