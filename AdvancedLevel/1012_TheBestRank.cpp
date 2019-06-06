@@ -1,6 +1,6 @@
 /* 1012 The Best Rank
  * By Milkyway, 2019/6/5.
- * It runs in O() in time and O() in space.
+ * It runs in O(3*nlogn + n*m) in time and O(n) in space.
  */
 #include<iostream>
 #include<algorithm>
